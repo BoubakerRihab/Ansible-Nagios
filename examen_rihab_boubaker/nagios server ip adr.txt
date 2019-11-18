@@ -1,0 +1,2 @@
+nagios server ip@
+34.245.140.84
