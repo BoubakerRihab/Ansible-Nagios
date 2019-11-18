@@ -3,11 +3,8 @@
 Preparing for ansible on client
 $ sudo apt-get install python -y
 $nano /etc/ssh/sshd_config
-## change:
-## PasswordAuthentication no
-## to
-## PasswordAuthentication yes
-********
+## change: PasswordAuthentication no toPasswordAuthentication yes
+
 # change password:
 $sudo passwd username
 #restart sshd:
