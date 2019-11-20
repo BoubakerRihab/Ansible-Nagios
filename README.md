@@ -19,7 +19,7 @@ $ssh-keygen
 $ sudo ssh-copy-id ubuntu@ipAddresseOfWebServer1
 $ssh ubuntu@ipAddresseOfWebServer1
 ## last 2 comands same steps for other servers
-## add servers ip adresses to the default ansible hosts file, which can be found in the directory /etc/ansible/hosts like this:
+## add servers ip adresses to the default ansible hosts file, which can be found in the directory /etc/ansible/hosts as follow:
 $ cat /etc/ansible/hosts
 ## inside the file
 [webservers]
