@@ -1,4 +1,5 @@
-"# Ansible-Nagios" 
+"# Ansible-Nagios"
+### NB: the only condition to make Ansible works is having python installed !
 # 1-create AWS ubuntu intance for the client
 Preparing for ansible on client
 $ sudo apt-get install python -y
