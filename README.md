@@ -28,4 +28,4 @@ ipAdressOfWebServer2
 [dbservers]
 ipAdressOfDBServer1
 ipAdressOfDBServer2
-# 3- Run the playbook (for apache and mysql installation in this example)
+# 3- Create & Run the playbook (for apache and mysql installation in this example)
