@@ -33,4 +33,4 @@ ipAdressOfDBServer2
 $nano myplaybook.yml
 ## the add the script for apache and mysl installation then run the playbook
 $ansible-playbook myplaybook.yml
-# 4- Nagios is used for the servers monitoring
+# 4- Use Nagios is used for the servers monitoring
