@@ -30,3 +30,4 @@ ipAdressOfWebServer2
 ipAdressOfDBServer1
 ipAdressOfDBServer2
 # 3- Create & Run the playbook (for apache and mysql installation in this example)
+# 4- Nagios is used for the servers monitoring
