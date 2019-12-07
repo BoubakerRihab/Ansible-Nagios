@@ -31,6 +31,6 @@ ipAdressOfDBServer1
 ipAdressOfDBServer2
 # 3- Create the playbook (for apache and mysql installation in this example)
 $nano myplaybook.yml
-## the add the script for apache and mysl installation then run the playbook
+## then add the script for apache and mysql installation then run the playbook
 $ansible-playbook myplaybook.yml
 # 4- Use Nagios for the servers monitoring
